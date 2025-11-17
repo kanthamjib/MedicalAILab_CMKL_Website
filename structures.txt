@@ -1,0 +1,14 @@
+lab-website/
+├─ index.html              # Home
+├─ people.html             # People
+├─ research.html           # Research
+├─ news.html               # News
+├─ publications.html       # Publications
+├─ opportunities.html      # Opportunities / Join us
+└─ assets/
+   ├─ css/
+   │   └─ style.css        # Main CSS
+   └─ img/
+       ├─ pi.jpg           # (optional) PI Pict
+       ├─ group.jpg        # (optional) Lab Pict
+       └─ ...              # Anything
